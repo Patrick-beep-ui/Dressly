@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/Patrick-beep-ui/Dressly/compare/v1.0.1...v1.1.0) (2026-03-21)
+
+
+### Features
+
+* **outfit-generation:** Improve Outfit Preview Design ([f31f210](https://github.com/Patrick-beep-ui/Dressly/commit/f31f210281998db5c4d41b87e83490d5a238872e))
+* **outfit-generation:** Improve Outfit Preview Design ([95556be](https://github.com/Patrick-beep-ui/Dressly/commit/95556be88a84c74d0df3952727650e45c87ccb91))
+
 ## [1.0.1](https://github.com/Patrick-beep-ui/Dressly/compare/v1.0.0...v1.0.1) (2026-03-20)
 
 
