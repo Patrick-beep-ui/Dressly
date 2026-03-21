@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/Patrick-beep-ui/Dressly/compare/v1.1.0...v1.2.0) (2026-03-21)
+
+
+### Features
+
+* improved saved outfits layout ([aa9c2bc](https://github.com/Patrick-beep-ui/Dressly/commit/aa9c2bc897a6b5ae6e3e9f01b86dde17fc89fcdf))
+* improved saved outfits layout ([ba88304](https://github.com/Patrick-beep-ui/Dressly/commit/ba88304eb017970bda7b6defea59d19da3d5d5b3))
+
 ## [1.1.0](https://github.com/Patrick-beep-ui/Dressly/compare/v1.0.1...v1.1.0) (2026-03-21)
 
 
